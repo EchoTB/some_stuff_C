@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="XD" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/XD" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/XD" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="C11.cpp">
+			<Option link="0" />
+		</Unit>
+		<Unit filename="CalculatingInterest.c">
+			<Option compilerVar="CC" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="ConversionCharacters.c">
+			<Option compilerVar="CC" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="HeaderFile.c">
+			<Option compilerVar="CC" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="MathOperators.c">
+			<Option compilerVar="CC" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="MultiCalculator.c">
+			<Option compilerVar="CC" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="StringTerminator.c">
+			<Option compilerVar="CC" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="TestHeader.h" />
+		<Unit filename="Variables.c">
+			<Option compilerVar="CC" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="averaging.c">
+			<Option compilerVar="CC" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="averaging.h" />
+		<Unit filename="calculator3.cpp">
+			<Option link="0" />
+		</Unit>
+		<Unit filename="if.c">
+			<Option compilerVar="CC" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="or.c">
+			<Option compilerVar="CC" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="order.c">
+			<Option compilerVar="CC" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="scanf.c">
+			<Option compilerVar="CC" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="shorthand_if_else.c">
+			<Option compilerVar="CC" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="typecasting.c">
+			<Option compilerVar="CC" />
+			<Option link="0" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

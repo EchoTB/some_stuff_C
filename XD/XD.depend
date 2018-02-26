@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\can gürsoy\desktop\c_xd\xd\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1516721119 source:c:\users\can gürsoy\desktop\c_xd\xd\conversioncharacters.c
+	<stdio.h>
+	<stdlib.h>
+
+1517680050 source:c:\users\can gürsoy\desktop\c_xd\xd\variables.c
+	<stdio.h>
+	<stdlib.h>
+
+1516816007 source:c:\users\can gürsoy\desktop\c_xd\xd\stringterminator.c
+	<stdio.h>
+	<stdlib.h>
+
+1516815955 source:c:\users\can gürsoy\desktop\c_xd\xd\headerfile.c
+	<stdio.h>
+	<stdlib.h>
+	"TestHeader.h"
+
+1516815620 c:\users\can gürsoy\desktop\c_xd\xd\testheader.h
+
+1517595115 source:c:\users\can gürsoy\desktop\c_xd\xd\scanf.c
+	<stdio.h>
+	<stdlib.h>
+
+1517602720 source:c:\users\can gürsoy\desktop\c_xd\xd\mathoperators.c
+	<stdio.h>
+	<stdlib.h>
+
+1517679851 source:c:\users\can gürsoy\desktop\c_xd\xd\order.c
+	<stdio.h>
+	<stdlib.h>
+
+1517681839 source:c:\users\can gürsoy\desktop\c_xd\xd\averaging.c
+	<stdio.h>
+	<stdlib.h>
+
+1517680695 source:c:\users\can gürsoy\desktop\c_xd\xd\calculatinginterest.c
+	<stdio.h>
+	<stdlib.h>
+
+1519140948 source:c:\users\can gürsoy\desktop\c_xd\xd\c11.cpp
+	<stdio.h>
+
+1519141350 source:c:\users\can gürsoy\desktop\c_xd\xd\multicalculator.c
+	<stdlib.h>
+	<stdio.h>
+
+1519228622 source:c:\users\can gürsoy\desktop\c_xd\xd\typecasting.c
+	<stdio.h>
+	<stdlib.h>
+
+1519646098 source:c:\users\can gürsoy\desktop\c_xd\xd\if.c
+	<stdio.h>
+	<stdlib.h>
+
+1519400117 source:c:\users\can gürsoy\desktop\c_xd\xd\calculator3.cpp
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
+1519561703 source:c:\users\can gürsoy\desktop\c_xd\xd\or.c
+	<stdio.h>
+	<stdlib.h>
+
+1519562161 source:c:\users\can gürsoy\desktop\c_xd\xd\increment_operator.c
+
+1519646058 source:c:\users\can gürsoy\desktop\c_xd\xd\shorthand_if_else.c
+	<stdio.h>
+	<stdlib.h>
+
